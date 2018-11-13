@@ -31,8 +31,7 @@ All questions are welcome but not all questions will be answered by me. Some que
 - Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered. Read: ["Hi, thanks for reaching out to me 👋"](https://medium.com/@kentcdodds/hi-thanks-for-reaching-out-to-me-d970e7e6632).
 
 ##### Answer format
-
-Some answers may be in the form of [audio clips](https://github.com/kentcdodds/ama/labels/audio-answer) or [videos](https://github.com/kentcdodds/ama/labels/video-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
+Some answers may be in the form of [audio clips](https://github.com/kentcdodds/ama/issues?q=label%3Aaudio-answer) or [videos](https://github.com/kentcdodds/ama/issues?q=label%3Avideo-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
 
 #### Other contact mediums
 I can also be reached on [Twitter](https://twitter.com/kentcdodds) and [email](mailto:kent+ama@doddsfamily.us), but I prefer [this medium](https://github.com/kentcdodds/ama/issues/new).
